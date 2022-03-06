@@ -1,2 +1,2 @@
 # cacti
-cacti conf file and gathered data
+snmpd conf file and gathered data from cacti
